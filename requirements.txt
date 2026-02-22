@@ -1,6 +1,7 @@
 streamlit
-langchain-groq
+langchain
 langchain-community
+langchain-groq
 langchain-text-splitters
 pypdf
 sentence-transformers
